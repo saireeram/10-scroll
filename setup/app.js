@@ -9,6 +9,12 @@ const clearText = document.body.querySelector("#clear-text");
 clearText.addEventListener("click", () => {
   story.textContent = "";
 });
+
+const name1 = document.body.querySelector("#clear-text");
+clearText.addEventListener("click", () => {
+  story.textContent = "";
+});
+
 const changeText = document.body.querySelector("#change-text");
 changeText.addEventListener("click", () => {
   story.textContent = "HELLO ";
