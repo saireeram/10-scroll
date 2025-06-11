@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  gap: 0.5rem;
+  flex-direction: column;
+}
+
+button {
+  width: 500px;
+  color: black;
+  color-scheme: black;
+  border-color: red;
+}
