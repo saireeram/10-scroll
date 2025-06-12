@@ -1,1 +1,2 @@
-const name_: String = "Sri ram";
+let message: string = "saisreeram";
+console.log(message);
